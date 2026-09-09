@@ -1,0 +1,58 @@
+a {
+  color: #ff0000;
+}
+
+a:link {
+  color: #ff0019;
+}
+
+a:visited {
+  color: #08df45;
+}
+
+a:active {
+  color: #00ffff;
+}
+
+a:hover {
+  color: #faea09;
+}        
+
+.header1 {
+ color: white;
+ background-color: crimson;
+}
+
+.heading1 {
+color: white;
+background-color: pink;
+}
+
+.heading2 {
+    color:white;
+    background-color: purple;
+}
+
+#div1 {
+color: white;
+background-color: hotpink;
+}
+
+#div2 {
+    color: white;
+    background-color: hotpink;
+}
+
+#div3{
+    color: white;
+    background-color: hotpink;
+}
+
+.heading3 {
+    color: white;
+    background-color: magenta;
+}
+
+.span1 {
+    color: black;
+}
