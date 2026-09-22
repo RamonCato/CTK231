@@ -1,0 +1,112 @@
+a {
+  color: #ff0000;
+}
+
+a:link {
+  color: #ff0019;
+}
+
+a:visited {
+  color: #08df45;
+}
+
+a:active {
+  color: #00ffff;
+}
+
+a:hover {
+  color: #faea09;
+}        
+
+.header1 {
+ color: rgb(0, 0, 0);
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading1 {
+color: rgb(255, 170, 0);
+font-family: Arial, Helvetica, sans-serif;
+font-weight: normal;
+font-style: italic;
+background-color: black;
+}
+
+.heading2 {
+    color:rgb(255, 170, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    background-color: black;
+}
+
+#div1 {
+color: black;
+background-color: rgb(255, 170, 0);
+}
+
+#div2 {
+    color: black;
+    background-color: rgb(255, 170, 0);
+}
+
+#div3{
+    color: black;
+    background-color: rgb(255, 170, 0);
+}
+
+.heading3 {
+    color: rgb(255, 170, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: italic;
+    background-color: black;
+}
+
+.span1 {
+    color: black;
+}
+
+.customtext {
+    font-family: Arial, Helvetica, sans-serif;
+     font-style: italic;
+      font-weight: bold;
+      font-size: 20px;
+}
+
+.textright {
+    text-align: right;
+}
+
+.textleft {
+    text-align: left;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.textjustify {
+    text-align: justify;
+}
+
+.textspace {
+    letter-spacing: 20px;
+}
+
+.textheight {
+    line-height: 20px;
+}           
+
+.imgbox {
+    border: 30px solid #0a0808ec;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: #ffff00;
+}
+
+body {
+  background-image: url(isuctk.jpg);
+
+}
+
+
